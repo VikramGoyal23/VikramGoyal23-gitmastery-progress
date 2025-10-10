@@ -71,5 +71,18 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760100209.914656,
+    "completed_at": 1760100210.156861,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add joe.txt",
+      "Did not add alice.txt",
+      "Did not add carrey.txt",
+      "Did not add jim.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
