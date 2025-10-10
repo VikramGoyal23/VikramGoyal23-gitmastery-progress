@@ -62,5 +62,14 @@
       "Did not add carrey.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760100178.284381,
+    "completed_at": 1760100178.543626,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
