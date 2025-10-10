@@ -18,5 +18,16 @@
       "Did not add bob.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760100107.640293,
+    "completed_at": 1760100108.41937,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
