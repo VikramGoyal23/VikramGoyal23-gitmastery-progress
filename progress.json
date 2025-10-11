@@ -29,5 +29,14 @@
       "Did not add jim.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760157513.170734,
+    "completed_at": 1760157513.757912,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
