@@ -65,5 +65,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760338653.532889,
+    "completed_at": 1760338654.23162,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
