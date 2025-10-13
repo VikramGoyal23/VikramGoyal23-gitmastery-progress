@@ -92,5 +92,14 @@
       "You haven't edited shopping-list.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760338894.707577,
+    "completed_at": 1760338895.022894,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
   }
 ]
