@@ -65,50 +65,5 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338653.532889,
-    "completed_at": 1760338654.23162,
-    "comments": [
-      "All commits are empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338821.512074,
-    "completed_at": 1760338821.779339,
-    "comments": [
-      "There are no new grocery list items added to the shopping list."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338864.38547,
-    "completed_at": 1760338864.662702,
-    "comments": [
-      "You haven't edited shopping-list.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338894.707577,
-    "completed_at": 1760338895.022894,
-    "comments": [
-      "There are no new grocery list items added to the shopping list."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338921.172528,
-    "completed_at": 1760338921.43499,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
   }
 ]
