@@ -74,5 +74,14 @@
       "There are no grocery list items removed from the shopping list."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760339017.098725,
+    "completed_at": 1760339017.377379,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
   }
 ]
