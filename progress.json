@@ -128,5 +128,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693423.582376,
+    "completed_at": 1760693426.444518,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
