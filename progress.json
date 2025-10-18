@@ -313,5 +313,15 @@
       "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1760810665.201974,
+    "completed_at": 1760810667.172593,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
   }
 ]
