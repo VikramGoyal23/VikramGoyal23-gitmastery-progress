@@ -245,5 +245,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git rev-list main --\n  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1760809888.966245,
+    "completed_at": 1760809889.186967,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git rev-list main --\n  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'"
+    ],
+    "status": "Error"
   }
 ]
